@@ -1,0 +1,7 @@
+Pvm: 14.5.2013
+
+- Gitin käyttöönottaminen ja repotreenit: 1 h
+- Netbeans: 15 min
+- Labtool: 5 min 
+- Aihemäärittely: 20 min
+- Tuntikirjanpito: 20 min
